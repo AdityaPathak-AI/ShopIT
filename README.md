@@ -15,3 +15,8 @@
 <br>10.Django</br>
 <br>11.Paypal Payment Gateway</br>
 <br>12.Digital Ocean(Hosting)</br>
+
+<br>This project is basically on Django Web Framework</br>
+
+<br>Python Version - 3.9.2 </br>
+<br>Django Version - 4.0.2 </br>
