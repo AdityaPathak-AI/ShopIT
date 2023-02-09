@@ -1,22 +1,66 @@
+
 # ShopIT
 
-<br>ShopIT is a E-Commerce Shopping Website .</br>
+ShopIT is a E-Commerce webapp build on Django(a python based framework).
 
-<br>Used in Project</br>
-<br>1.HTML-5</br>
-<br>2.CSS-3</br>
-<br>3.JavaScript</br>
-<br>4.Bootstrap </br>
-<br>5.Jquery</br>
-<br>6.Ajax</br>
-<br>7.FontAwesome</br>
-<br>8.Owl Carousel</br>
-<br>9.Python</br>
-<br>10.Django</br>
-<br>11.Paypal Payment Gateway</br>
-<br>12.Digital Ocean(Hosting)</br>
+## Installation
 
-<br>This project is basically on Django Web Framework</br>
+Install my-project with npm
 
-<br>Python Version - 3.9.2 </br>
-<br>Django Version - 4.0.2 </br>
+```bash
+  pip install django
+
+  virtualenv env
+```
+## For Mac/Linux
+
+```bash
+  source env/bin/activate
+  ```
+ ## Window 
+  ```bash
+  env\scripts\activate
+
+pip install -r requirements.txt
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py runserver
+```  
+## 🛠 Tools and Technologies Used
+
+
+
+1. HTML-5
+
+2. CSS-3
+
+3. JavaScript
+
+4. Bootstrap
+
+5. Jquery
+
+6. Ajax
+
+7. FontAwesome
+
+8. Owl Carousel
+
+9. Python
+
+10. Django
+
+11. Paypal Payment Gateway
+
+12. Digital Ocean(Hosting)
+
+
+## Versions
+
+Python Version - 3.9.2
+
+Django Version - 4.0.2
+
